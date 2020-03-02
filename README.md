@@ -1,6 +1,6 @@
 # User Task Management with Node.js-Express-MongoDB-Angular Application
 
-This is a user task management Node.js CRUD application.
+This is an user task management Node.js CRUD application.
 
 This Node.js CRUD code use:
 
